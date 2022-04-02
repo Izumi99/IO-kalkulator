@@ -1,2 +1,5 @@
 #tu bedzie praca z repo
-print ("Hello world")
+def hello(name):
+	return "Hello" + str(name)
+
+print ("Hello World")
